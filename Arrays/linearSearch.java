@@ -1,3 +1,5 @@
+// Time Complexity of Linear Search [worst case]: O(n)
+
 package Arrays;
 
 import java.util.*;
