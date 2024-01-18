@@ -1,6 +1,7 @@
 package Arrays;
 /*
  * for pairs we use the concept of 'Nested Loops'
+ * Time Complexity: O(n^2) because nested loop is required to print pairs
  */
 public class printPairs {
     public static void pairs(int arr[]) {
