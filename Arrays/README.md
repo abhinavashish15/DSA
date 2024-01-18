@@ -14,12 +14,12 @@ Example:<br>
 int[] arr = new int[10]; // Initialization with size 10
 
 ## Accessing Elements
-Array elements are accessed using their index, starting from 0
+Array elements are accessed using their index, starting from 0<br>
 Example:<br>
 int firstElement = arr[0];
 
 ## Iterating Through an Array
-You can use loops, such as "for" or "foreach", to iterate through the elements of an array
+You can use loops, such as "for" or "foreach", to iterate through the elements of an array<br>
 Example:<br>
     // using for loop
 for (int i = 0; i < arr.length; i++) {
@@ -32,7 +32,7 @@ for (int element : arr) {
 }
 
 ## Running the Example
-To run the example, compile the "Arrays> java arrays.java" file and execute the generated class
+To run the example, compile the "Arrays> java arrays.java" file and execute the generated class<br>
 Example:<br>
 PS C:\Users\Abhinav Ashish\OneDrive\Desktop\DSA\Arrays> java arrays.java
 
