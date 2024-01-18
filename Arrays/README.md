@@ -21,17 +21,17 @@ int firstElement = arr[0];
 ## Iterating Through an Array
 You can use loops, such as "for" or "foreach", to iterate through the elements of an array<br>
 Example:<br>
-    // using for loop
-for (int i = 0; i < arr.length; i++) {
-    // Access each element using arr[i]
+    // using for loop<br>
+for (int i = 0; i < arr.length; i++) {<br>
+    // Access each element using arr[i]<br>
+}<br>
+
+// using a for-each loop<br>
+for (int element : arr) {<br>
+    // Access each element using the variable 'element'<br>
 }
 
-// using a for-each loop
-for (int element : arr) {
-    // Access each element using the variable 'element'
-}
-
-## Running the Example
+## Running in VSCode
 To run the example, compile the "Arrays> java arrays.java" file and execute the generated class<br>
 Example:<br>
 PS C:\Users\Abhinav Ashish\OneDrive\Desktop\DSA\Arrays> java arrays.java
